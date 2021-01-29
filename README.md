@@ -61,7 +61,7 @@
 
 
 
-
+<img align="Center" alt="Center | Telegram" width="603px" src="https://upload.wikimedia.org/wikipedia/fa/b/bc/Shiraz_University_logo.png" />
 
 
 </div>  
